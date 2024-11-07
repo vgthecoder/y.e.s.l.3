@@ -13,3 +13,12 @@ A recreation of the Yamaha Education System (Lesson 3, Waiting) that shipped wit
 * Select your MIDI Track(s)
 * Select your MIDI File
 * Click the "Start" button
+## Problems
+* "Stop" Button crashes the program
+* MIDI Out stops working after one play
+* The notes you have to play don't have a ui, and are thrown into the TK Window
+* The song stops playing sometimes
+* The notes you play cutout sometimes
+  * Waits 0.2 sec, jank, still half-broken
+* No seeking or Rewinding
+* No Chords
