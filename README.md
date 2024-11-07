@@ -21,6 +21,6 @@ If you are looking for some of Yamaha's MIDIs, go [here](https://vgcoder.nekoweb
 * The notes you have to play don't have a ui, and are thrown into the TK Window
 * The song stops playing sometimes
 * The notes you play cutout sometimes
-  * Waits 0.2 sec, jank, still half-broken
-* No seeking or Rewinding
+  * Bad Fix: Waits 0.2 sec, half-broken
+* No Seeking or Rewinding
 * No Chords
