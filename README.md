@@ -1,5 +1,6 @@
 # Yamaha Education System (Lesson 3, Waiting)
 A recreation of the Yamaha Education System (Lesson 3, Waiting) that shipped with some of their keyboards.
+If you are looking for some of Yamaha's MIDIs, go [here](https://vgcoder.nekoweb.org/yamahamidis/).
 ## Getting Started
 ### Requirements (Hardware)
 * A MIDI Input Device
