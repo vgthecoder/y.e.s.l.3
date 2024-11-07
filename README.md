@@ -24,3 +24,4 @@ If you are looking for some of Yamaha's MIDIs, go [here](https://vgcoder.nekoweb
   * Bad Fix: Waits 0.2 sec, half-broken
 * No Seeking or Rewinding
 * No Chords
+* You can play a song multiple times at once
