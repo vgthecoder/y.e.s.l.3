@@ -1,0 +1,2 @@
+python-rtmidi==1.5.8
+tk==0.1.0
