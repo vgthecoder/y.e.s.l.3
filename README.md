@@ -7,7 +7,7 @@ If you are looking for some of Yamaha's MIDIs, go [here](https://vgcoder.nekoweb
 * A MIDI Input Device
 * A Seperate MIDI Output device (to avoid feedback)
 ### Requirements (Software)
-* Run install.py
+* Run install.py OR `pip install -r requirements.txt`
 * You might need Visual Studio Build Tools (0.14.0+)
 ### Using
 * Run menu.py
