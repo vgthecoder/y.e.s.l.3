@@ -19,6 +19,8 @@ If you are looking for some of Yamaha's MIDIs, go [here](https://vgcoder.nekoweb
 * "Stop" Button crashes the program
 * MIDI Out stops working after one play
 * The notes you have to play don't have a ui, and are thrown into the TK Window
+## Credits
+* Thank you to [@kroften4](https://github.com/kroften4) for helping out with debugging and help with rewriting.
 * The song stops playing sometimes
 * The notes you play cutout sometimes
   * Bad Fix: Waits 0.2 sec, half-broken
